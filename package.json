@@ -1,7 +1,8 @@
 {
   "name": "pizzamook",
-  "private": true,
-  "version": "0.0.0",
+  "description": "Este é um projeto de uma pizzaria chamado PizzaMook, desenvolvido para meu portfólio utilizando tecnologias como React, TypeScript, Vite, Tailwind CSS,",
+  "version": "1.0.0",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
